@@ -1,0 +1,43 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    text-align: center;
+    background-color: #212121;
+    color: White;
+  }
+  
+  h1 {
+    text-align: center;
+    font-size: 4em;
+    background-color: black;
+    color: white;
+  }
+  
+  .nav-bar {
+    font-size: 2em;
+    text-transform: uppercase;
+  }
+  
+  nav>a {
+    margin: 16px;
+    position: relative;
+  }
+  
+  .intro {}
+  
+  .d-day {
+    float: left;
+  }
+  
+  .op-mincemeat {
+    float: right;
+  }
+  
+  .enigma {
+    float: left;
+  }
+  
+  .soldiers {
+    margin: auto;
+    width: 50%;
+    height: auto;
+  }
