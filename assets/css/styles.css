@@ -36,7 +36,12 @@ body {
 
   #main-img {
     text-align: center;
-  
+  }
+
+  #normandy{
+    padding-left: auto;
+  }
+
   .meeting {
     float: left;
     padding-top: 50px;
@@ -52,6 +57,4 @@ body {
     padding-left: 20px;
   }
 
-  #normandy{
-    padding-left: auto;
-  }
+ 
