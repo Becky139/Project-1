@@ -10,7 +10,14 @@ body {
     background-color: #1E5128;
     color: white;
   }
+
+  h2 {
+    text-align: center;
+  }
   
+  p {
+    padding: 10px;
+  }
   .nav-bar {
     font-size: 2em;
     text-align: center;
@@ -39,22 +46,44 @@ body {
   }
 
   #normandy{
-    padding-left: auto;
+    padding-left: 20px;
   }
 
   .meeting {
     float: left;
-    padding-top: 50px;
-    padding-right: 20px;
+    padding-top: 60px;
+    padding-right: 10px;
+    padding-left: 10px;
   }
 
   .operation >h2 {
     text-align: left;
+    padding-left: 10px;
   }
 
   .operation >p {
     text-align: left;
-    padding-left: 20px;
   }
+
+  .landing-craft {
+    float: right;
+    padding: 10px;
+  }
+
+  #navel >h2 {
+    text-align: left;
+    padding: 10px;
+  }
+
+  .beach-landings {
+    height: 40%;
+    width: 80%;
+    margin: auto;
+  }
+
+  #beach {
+    text-align: center;
+  }
+ 
 
  
