@@ -25,13 +25,36 @@ body {
     padding: 20px;
     background: url(../images/background1.jpg);
   }
-  
+
+  .nav-bar a {
+    color: #fff;
+    text-decoration: none;
+  }
+
+  .nav-bar a:hover {
+    color: blue;
+    border-bottom: 5px solid #fff;
+}
+
+.active {
+    border-bottom: 5px solid #fff;
+}
   nav>a {
     margin: 16px;
     position: relative;
   }
+
+  /*Intro Page*/
   
-  .intro {}
+  .soldiers {
+    height: 40%;
+    width: 80%;
+    margin: auto;
+  }
+
+  .intro {
+    text-align: center;
+  }
 
   /*D-day Page*/
   
