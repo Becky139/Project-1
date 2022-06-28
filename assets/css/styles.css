@@ -7,7 +7,7 @@ body {
   h1 {
     text-align: center;
     font-size: 4em;
-    background-color: #1E5128;
+    background: url(../images/background1.jpg);
     color: white;
   }
 
@@ -23,7 +23,7 @@ body {
     text-align: center;
     text-transform: uppercase;
     padding: 20px;
-    background-color: #1E5128;
+    background: url(../images/background1.jpg);
   }
   
   nav>a {
@@ -84,6 +84,49 @@ body {
   #beach {
     text-align: center;
   }
+
+  .day-video {
+    float: left;
+    padding-left: 60px;
+  }
+
+  .programs {
+    text-align: center;
+    padding: 60px 10px;
+  }
+
+  .film  {
+    list-style: none;
+  }
+
+  .book {
+    list-style: none;
+  }
+
+  .center-div {
+    float: none;
+    text-align: center;
+    padding: 10px;
+  }
+
+  footer {
+    background: url(../images/background1.jpg);
+}
+
+.social-networks {
+  clear: both;
+  text-align: center;
+}
+
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 2em;
+    margin: 20px 60px;
+    color: white;
+}
  
 
  
