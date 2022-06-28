@@ -20,6 +20,29 @@
         <a href="contact-us.html" class="active">Contact Us</a>
       </nav>
 
+      <form action="" method="POST">
+      <fieldset>
+        <legend>Your details</legend>
+
+		<div class="float-left">
+			<label for="name-field" class="block-label">Name</label>
+			<input id="name-field" type="text" name="full_name" placeholder="Your name" required>
+		</div>
+		<div class="float-left">
+			<label for="email-field" class="block-label">Email</label>
+			<input id="email-field" type="email" name="email" placeholder="Your email" required>
+		</div>
+        <fieldset>
+			<legend>Feedback</legend>
+			<label for="feedback" class="block-label">How can we improve your experience with us?</label>
+			<br>
+			<textarea id="feedback" rows="4" cols="87" name="feedback"></textarea>
+		</fieldset>
+        <input type="submit" class="block-label" value="Submit">
+		<input type="reset" value="Reset Form">
+      </fieldset>
+    </form>
+
 
     
 </body>
