@@ -75,7 +75,19 @@ body {
 
   .intro {
     text-align: center;
+    padding: 10px;
   }
+
+  .gallery {
+    clear: both;
+    line-height: 0;
+    column-count: 4;
+    column-gap: 0px;
+}
+
+.gallery >img {
+    width: 100%;
+}
 
   /*D-day Page*/
   
@@ -231,16 +243,21 @@ body {
   }
 
   .turing {
+    float: right;
     height: 40%;
     width: 20%;
     padding-right: 10px;
   }
 
   .imitation {
-    clear: both;
+    float: left;;
     padding: 10px;
   }
 
-  .movies {
-    
-  }
+
+
+
+
+ 
+
+
