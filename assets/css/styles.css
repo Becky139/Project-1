@@ -44,7 +44,8 @@ p {
   margin: 8px 1vw;
 }    
 
-.nav-bar-content a {
+.nav-bar a {
+  color: #fff;
   text-decoration: none;
 }
 
@@ -324,6 +325,13 @@ footer {
 .button {
   display: inline-block;
   text-align: center;
+}
+
+/* Contact Dump */
+
+.text-dump {
+  text-align: center;
+  color: #fff;
 }
 
 /* Media Queries */
