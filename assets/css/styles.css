@@ -58,6 +58,25 @@ p {
   border-bottom: 5px solid #fff;
 }
 
+.top-home {
+  position: fixed;
+  bottom: 5rem;
+  right: 5%;
+  max-width: 50px;
+  max-height: 50px;
+  width: 100%;
+  height: 100%;
+  padding: .5px;
+  border-radius: 8px;
+  justify-content: center;
+  background: #FFFFFF;
+  color: black;
+  font-size: 2rem;
+  font-weight: 800;
+  text-decoration: none;
+  cursor: pointer;
+}
+
 footer {
   background: url(../images/background1.jpg);
   padding: 0px;
