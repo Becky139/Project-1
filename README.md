@@ -58,16 +58,23 @@ list of pages and content layout
 - **Hamburger Menu** - Appearing on almost every page for a consistently easy and intuitive navigable system on smaller screens.
 - **Social Media Icons** - Appearing on almost every page, the icons are appropriate representations of the Social Media platforms.
 - **Contact Form** - A contact form is used in the Contact Page, to provide a point of contact for the user.
+- **[D Day Page](d-day.html)** - Provides an overlook at operation overlord known better as d day this was massive turning point in the war as the allies opened up this second front in the west help to put pressure on the Germans.
+- **[Operation Mincemeat](op-mincemeat.html) - Provides information about this sercet operation that was used by the allies to make the Germans move troops to a differant place to allow the invasion of silicy to be a succuses.
+- **[Enigma Code](enigma-code.html) - This looks into the story of how we broke the German enigma code this allowed us to avoid German attacks and take down the U-Boat that was destroying the allies in the Alantic.
+- **[Contact Us Page](contact-us.html) - Provides a form for users to contact us and either leave feedback or point at more stories we can add to the page in the future.  
 
 ###Features to Implement in the future
 - **Helpful Links Page**
-     - **Feature** - 
-     - **Reason for not featuring in this release** - Not enough time to create this page before the submission date.
+     - **Feature** - Create more pages with other stories that had big impacts on the war or stories that show the real heros of this horific conflict.
+     - **Reason for not featuring in this release** - Not enough time to find these out before the submission date also I may not be aware of some of these events.
 
 [Back to top](#Stories-of-WW2)
 
 ## Issues and Bugs
 The developer ran into several issues during the development of the website, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
+
+**Navigation Bar/Hamburger Menu Responsiveness Bug** - A bug was detected while introducing responsiveness to the navigation bar and hamburger menu. At 1200px exactly, both the navigation bar and hamburger menus vanished. It was found that this was caused by setting the hamburger menu to be hidden at 1200px and up, and the navigation bar to be hidden at 1200px and down. The issue was rectified simply by changing the hamburger menu to be hidden from 1201px and up instead.
+
 
 [Back to top](#Stories-of-WW2)
 
@@ -79,7 +86,11 @@ The developer ran into several issues during the development of the website, wit
 
 ### Frameworks, Libraries & Programs Used
 - [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
-    - Google fonts was used to import the fonts "Special Elite", "Open Sans", "Oswald" and "Nosifer" into the style.css file. These fonts were used throughout the project.
+    - Google fonts was used to import the fonts into the style.css file. These fonts were used throughout the project.
+- [wikipedia](https://wikipedia.com/)
+     - Wikipedia was used to get alot of the facts and pictures used thoughout the project.
+- [History Page](https://history.com/)
+     - The History page was used to gather facts for the stories used thoughout the projct.
 - [Font Awesome](https://fontawesome.com/ "Link to FontAwesome")
      - Font Awesome was used on almost all pages throughout the website to import icons (e.g. social media icons) for UX purposes.
 - [GitPod](https://gitpod.io/ "Link to GitPod homepage")
@@ -88,10 +99,7 @@ The developer ran into several issues during the development of the website, wit
      - GitHub was used to store the project after pushing
 - [Balsamiq](https://balsamiq.com/ "Link to Balsamiq homepage")
      - Balsamiq was used to create the wireframes during the design phase of the project.
-- [Figma](https://www.figma.com/ "Link to Figma homepage")
-     - Figma was used to create the concept art during the design phase of the project.
-- [Am I Responsive?](http://ami.responsivedesign.is/# "Link to Am I Responsive Homepage")
-     - Am I Responsive was used in order to see responsive design throughout the process and to generate mockup imagery to be used.
+
 
 [Back to top](#Stories-of-WW2)
 
@@ -113,12 +121,28 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
 ## Credits
 
 ### Content
-
+- Some of the text used in variose pages were borrowed and adapted from various sites, Listed below.
+     - [Wkipedia](https://wikipedia.com/)
+     - [History](https://history.com/)
+     - [IWM](https://https://www.iwm.org.uk/)
 ### Media
+- Almost all the images came from [Wikipedia](https://wikipedia.com/) but also got some from [IWM](https://https://www.iwm.org.uk/) and [Google Pictures](https://photos.google.com/)
+- All videos were sourced from various channels on [YouTube](https://youtube.com/ "Link to YouTube Home Page")
 
 ### Code
+The developer consulted multiple sites in order to better understand the code they were trying to implement. For code that was copied and edited, the developer made sure to reference this with the code. The following sites were used on a more regular basis:
+- [Stack Overflow](https://stackoverflow.com/ "Link to Stack Overflow page")
+- [W3Schools](https://www.w3schools.com/ "Link to W3Schools page")
+- [MDN Docs](https://developer.mozilla.org/ "Link to MDN Web Docs")
+- [DevDocs API Documentation](https://devdocs.io/ "Link to DevDocs page")
+
+[Back to top](#Stories-of-WW2)
 
 ## Acknowledgements
+
+- I would like to thank my family for their valued opinions and critic during the process of design and development.
+- I would like to thank my tutor, for their invaluable help and guidance throughout the process.
+- Lastly, I would like to extend my deepest gratitude to the amazing people in Slack who helped me rigorously test every aspect of my site.
 
 [Back to top](#Stories-of-WW2)
 
