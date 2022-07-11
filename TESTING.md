@@ -84,3 +84,7 @@ Manual testing was conducted on the following elements of the [Contact Us Page](
 
       ![Form Reset Link - Contact Us Page](assets/testing-files/form_reset.gif) 
 
+## Automated Testing
+
+### Code Validation
+The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the `HTML` and `CSS` code used.
