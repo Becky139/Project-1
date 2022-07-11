@@ -88,3 +88,41 @@ Manual testing was conducted on the following elements of the [Contact Us Page](
 
 ### Code Validation
 The [W3C Markup Validator](https://validator.w3.org/) service was used to validate the `HTML` and `CSS` code used.
+
+**Results:**
+
+- Home Page
+
+      ![Home Page HTML Validation Results](assets/testing-files/validate/validate-home.png)
+
+- D-Day Page
+
+     ![D Day Page HTML Validation Results](assets/testing-files/validate/validate-d-day.png)
+
+- Operation Mincemeat Page
+
+     ![Operation Mincemeat Page HTML Validation Results](assets/testing-files/validate/validate-mincemeat.png)
+
+- Enigma Code Page
+
+     ![Enigma Code Page HTML Validation Results](assets/testing-files/validate/validate-enigma.png)
+
+- Contact Us Page
+
+     ![Contact Us Page HTML Validation Results](assets/testing-files/validate/validate-contact-us.png)
+
+- Contact Dump Page
+
+     ![Contact Dump Page HTML Validation Results](assets/testing-files/validate/validate-contact-dump.png)
+
+### Browser Validation
+- Chrome - [test image](assets/testing-file/validate/validate-chrome.PNG)
+- Edge - [test image](assets/testing-files/browser/validate-edge.PNG)
+- Firefox - [test image](assets/testing-files/browser/validate-firefox.PNG)
+
+## User testing 
+
+
+[Back to top](#Stories-of-WW2)
+
+***
