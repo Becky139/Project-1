@@ -84,6 +84,18 @@ Manual testing was conducted on the following elements of the [Contact Us Page](
 
       ![Form Reset Link - Contact Us Page](assets/testing-files/form_reset.gif) 
 
+### Mobile & Tablet Screens
+
+  - On Tablet size screens 1200px or less hamburger menu appears and gallery changes
+     
+     ![Tablet Screen - Home Page](assets/testing-files/validate/validate-tablet-screen.png)
+     ![Tablet Screen Gallery - Home Page](assets/testing-files/validate/validate-tablet-gallery.png)
+
+  - On mobile sixe screens 800px or smaller has the hamburger menu and gallery changes
+     
+     ![Mobile Screen - Home Page](assets/testing-files/validate/validate-mobile.png)
+     ![Mobile Screen Gallery - Home Page](assets/testing-files/validate/validate-mobile-gallery.png)
+
 ## Automated Testing
 
 ### Code Validation
@@ -117,12 +129,12 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
 ### Browser Validation
 - Chrome - [test image](assets/testing-file/validate/validate-chrome.PNG)
-- Edge - [test image](assets/testing-files/browser/validate-edge.PNG)
-- Firefox - [test image](assets/testing-files/browser/validate-firefox.PNG)
+- Edge - [test image](assets/testing-files/validate/validate-edge.PNG)
+- Firefox - [test image](assets/testing-files/validate/validate-firefox.PNG)
 
 ## User testing 
 
 
-[Back to top](#Stories-of-WW2)
+[Back to top](#Stories-of-WW2-Testing)
 
 ***
