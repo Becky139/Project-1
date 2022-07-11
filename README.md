@@ -1,6 +1,6 @@
 # Stories Of WW2
 
-![mockup images]add link
+![mockup images](assets/readme-files/stories-of-ww2.png)
 
 [view the live project here]add link
 
@@ -90,6 +90,8 @@ list of pages and content layout
 The developer ran into several issues during the development of the website, with the noteworthy ones listed below, along with solutions or ideas to implement in the future.
 
 **Navigation Bar/Hamburger Menu Responsiveness Bug** - A bug was detected while introducing responsiveness to the navigation bar and hamburger menu. At 1200px exactly, both the navigation bar and hamburger menus vanished. It was found that this was caused by setting the hamburger menu to be hidden at 1200px and up, and the navigation bar to be hidden at 1200px and down. The issue was rectified simply by changing the hamburger menu to be hidden from 1201px and up instead.
+
+**Navigation Bar Text Color Bug** - A bug was detected when I added the hamburger menu the main text color was not showing and the main navigation bar. The fix was to add text color to the class nav-bar a so it applied once this was done the main text color appeared as its correct white color and the blue hover color only when hovering.
 
 
 [Back to top](#Stories-of-WW2)
