@@ -57,4 +57,10 @@
 ## Manual Testing
 
 ### Common Elements Testing
+Manual testing was conducted on the following elements that appear on every page:
+
+- Clicking on the Navigation Bar's links will bring the user to the specified page.
+
+     ![Navigation Bar page links](assets/testing-files/nav_testing.gif)
+     ![Hamburger menu page links](assets/testing-files/ham_testing.gif)
 
