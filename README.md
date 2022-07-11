@@ -7,6 +7,7 @@
 ##Table of contents
 
 1. [Introduction](#Introduction)
+    1. [Wireframes](#Wireframes)
 2. [Features](#Features)
     1. [Design Features](#Design-Features)
     2. [Existing Features](#Existing-Features)
@@ -35,6 +36,21 @@ This website was made for the first of five Milestone projects required to compl
 
 The main requirements of this project are to build a responsive and static front-end site to present useful information to users using all the technologies learned so far, namely HTML5 and CSS3. The site is to contain no less than three pages.
 
+### Wireframes 
+Wireframes were made to showcase the appearance of the site pages while keeping a positive user experience in mind. The wireframes were created using a desktop version of [Balsamiq](https://balsamiq.com/).
+
+
+<details>
+<summary>Balsamiq Wireframes</summary>
+    
+![Site Wireframes](assets/readme-files/wireframe-home.png)
+![Site Wireframes](assets/readme-files/wireframe-d-day.png)
+![Site Wireframes](assets/readme-files/wireframe-op-Mincemeat.png)
+![Site Wireframes](assets/readme-files/wireframe-enigma.png)
+![Site Wireframes](assets/readme-files/wireframe-contact-us.png)
+
+</details>   
+
 [Back to top](#Stories-of-WW2)
 
 ## Features
@@ -59,9 +75,9 @@ list of pages and content layout
 - **Social Media Icons** - Appearing on almost every page, the icons are appropriate representations of the Social Media platforms.
 - **Contact Form** - A contact form is used in the Contact Page, to provide a point of contact for the user.
 - **[D Day Page](d-day.html)** - Provides an overlook at operation overlord known better as d day this was massive turning point in the war as the allies opened up this second front in the west help to put pressure on the Germans.
-- **[Operation Mincemeat](op-mincemeat.html) - Provides information about this sercet operation that was used by the allies to make the Germans move troops to a differant place to allow the invasion of silicy to be a succuses.
-- **[Enigma Code](enigma-code.html) - This looks into the story of how we broke the German enigma code this allowed us to avoid German attacks and take down the U-Boat that was destroying the allies in the Alantic.
-- **[Contact Us Page](contact-us.html) - Provides a form for users to contact us and either leave feedback or point at more stories we can add to the page in the future.  
+- **[Operation Mincemeat](op-mincemeat.html)** - Provides information about this sercet operation that was used by the allies to make the Germans move troops to a differant place to allow the invasion of silicy to be a succuses.
+- **[Enigma Code](enigma-code.html)** - This looks into the story of how we broke the German enigma code this allowed us to avoid German attacks and take down the U-Boat that was destroying the allies in the Alantic.
+- **[Contact Us Page](contact-us.html)** - Provides a form for users to contact us and either leave feedback or point at more stories we can add to the page in the future.  
 
 ###Features to Implement in the future
 - **Helpful Links Page**
