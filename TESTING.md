@@ -64,3 +64,23 @@ Manual testing was conducted on the following elements that appear on every page
      ![Navigation Bar page links](assets/testing-files/nav_testing.gif)
      ![Hamburger menu page links](assets/testing-files/ham_testing.gif)
 
+- Clicking the Back-to-top button, located at the bottom right of the screen, will bring the user to the top of the page.
+
+     ![Back-To-Top Button](assets/testing-files/bttb_testing.gif)
+
+### Contact Us Page 
+Manual testing was conducted on the following elements of the [Contact Us Page](contact-us.html):  
+
+  - When filling out the contact form, the user must complete all fields before submitting
+
+      ![Form required fields - Contact Us Page](assets/testing-files/form-name.png)
+      ![Form required fields - Contact Us Page](assets/testing-files/form-email.png)
+
+  - When submitting the form you get directed to the [Contact Dump Page](contact-dump.html)
+
+      ![Form Sumit Link - Contact Us Page](assets/testing-files/form-submit.png)
+
+  - Form reset or clear removes all text on the form 
+
+      ![Form Reset Link - Contact Us Page](assets/testing-files/form_reset.gif) 
+
