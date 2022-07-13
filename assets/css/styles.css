@@ -2,8 +2,8 @@
 
 body {
   font-family: 'Open Sans', sans-serif;
-  background-color: #1E5128;
-  color: White;
+  background-color: #9fa2a0;
+  color: rgb(17, 16, 16);
 }
   
 * {
@@ -24,11 +24,16 @@ h1 {
 }
 
 h2 {
+  padding: 20px;
   text-align: center;
+  text-transform: uppercase;
+  color: #1e3132;
+  text-decoration: underline;
 }
-  
+ 
 p {
-  padding: 10px;
+  padding: 40px;
+  line-height: 2em;
 }
 
 .nav-bar {
@@ -50,7 +55,6 @@ p {
 }
 
 .nav-bar a:hover {
-  color: blue;
   border-bottom: 5px solid #fff;
 }
 
@@ -101,7 +105,6 @@ footer {
   /*Intro Page*/
   
   .soldiers {
-    height: 40%;
     width: 80%;
     margin: auto;
   }
@@ -134,43 +137,41 @@ footer {
     text-align: center;
   }
 
-  #normandy{
-    padding-left: 20px;
+  .alantic-wall {
+    text-align: center;
+    padding: 150px 30px 150px 30px;
   }
 
-  .meeting {
+  .wall {
     float: left;
-    padding-top: 60px;
-    padding-right: 10px;
-    padding-left: 10px;
+    padding: 150px 30px 150px 30px;
   }
 
-  .operation >h2 {
-    text-align: left;
-    padding-left: 10px;
-  }
-
-  .operation >p {
-    text-align: left;
-  }
-
-  .landing-craft {
+  .ex-tiger {
     float: right;
-    padding: 10px;
+    padding: 150px 30px 150px 30px;
   }
 
-  #navel >h2 {
-    text-align: left;
-    padding: 10px;
+  .tiger {
+    text-align: center;
+    padding: 150px 30px 150px 30px;
   }
 
-  .beach-landings {
-    height: 40%;
-    width: 80%;
+  .op-tonga {
+    float: left;
+    padding: 150px 30px 150px 30px;
+  }
+
+  .tonga {
+    text-align: center;
+    padding: 150px 30px 150px 30px;
+  }
+
+  .beach-landing {
     margin: auto;
+    padding-left: 50px;
   }
-
-  #beach {
+  .utah {
     text-align: center;
   }
 
