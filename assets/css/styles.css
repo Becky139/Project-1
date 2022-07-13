@@ -34,6 +34,7 @@ h2 {
 p {
   padding: 40px;
   line-height: 2em;
+  text-align: center;
 }
 
 .nav-bar {
@@ -111,7 +112,7 @@ footer {
 
   .intro {
     text-align: center;
-    padding: 10px;
+    padding: 40px 50px 40px 50px;
   }
 
   .gallery {
@@ -135,6 +136,10 @@ footer {
 
   #main-img {
     text-align: center;
+  }
+
+  #normandy {
+    padding: 40px 50px 40px 50px;
   }
 
   .alantic-wall {
@@ -169,20 +174,98 @@ footer {
 
   .beach-landing {
     margin: auto;
-    padding-left: 50px;
+    width: 90%;
+    padding-left: 70px;
+    padding-top: 150px;
   }
+
+  .img-text {
+    text-align: center;
+    text-decoration: solid;
+    padding-bottom: 150px;
+  }
+
+  .landing {
+    float: left;
+    padding: 90px 30px 200px 30px;
+  }
+
   .utah {
     text-align: center;
+    padding: 150px 30px 20px 30px;
+  }
+
+  .omaha {
+    text-align: center;
+  }
+
+  .omaha-landing {
+    float: right;
+    width: 50%;
+    padding: 100px 30px 150px 30px;
+  }
+
+  .invasion {
+    text-align: center;
+    padding: 200px 30px 30px 30px;
+  }
+
+  .climb {
+    float: left;
+    padding: 200px 30px 150px 30px;
+  }
+
+  .hoc {
+    text-align: center;
+    padding-top: 0px;
+  }
+  
+  .sword {
+    text-align: center;
+    padding: 150px 30px 10px 30px;
+  }
+
+  .gold {
+    text-align: center;
+    padding: 0px 30px 150px 30px;
+  }
+
+  .juno-landing {
+    float: right;
+    padding: 150px 30px 150px 30px;
+  }
+
+  .juno {
+    text-align: center;
+    padding: 200px 30px 150px 30px;
+  }
+
+  .manor {
+    float: left;
+    padding: 150px 30px 150px 30px;
+  }
+
+  .assault {
+    text-align: center;
+    padding: 200px 30px 150px 30px;
+  }
+
+  .aftermath {
+    padding: 40px 50px 40px 50px;
   }
 
   .day-video {
     float: left;
-    padding-left: 60px;
+    padding: 0px 10px 40px 80px;
+  }
+
+  .day-video p {
+    padding: 20px 10px 10px 0px;
   }
 
   .programs {
     text-align: center;
-    padding: 60px 10px;
+    padding: 80px 10px;
   }
 
   .film  {
