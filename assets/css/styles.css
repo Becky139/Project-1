@@ -464,7 +464,7 @@ footer {
 
   /*Contact Us Page*/
 
-  .suggestions h1 {
+  .suggestions h2 {
     color: #1e3132;
     text-decoration: underline;
     text-transform: uppercase;
@@ -475,7 +475,7 @@ footer {
 
   .form {
     width: 50%;
-    padding: 25px;
+    padding: 10px;
     border-radius: 8px;
     margin: 25px auto;
     background: url(../images/background1.jpg);
@@ -484,10 +484,14 @@ footer {
   
   legend {
     margin-top: 20px;
+    text-decoration: underline;
+    color: #FFFFFF;
+    font-weight: bold;
+    font-size: large;
   }
 
   input[type=submit] {
-    margin-top: 20px;
+    margin: 20px;
     margin-left: 1rem;
     padding: 0.75rem;
     background-color: #180A0A;
