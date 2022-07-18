@@ -107,7 +107,9 @@ footer {
   
   .soldiers {
     width: 80%;
+    display: block;
     margin: auto;
+    padding-top: 40px;
   }
 
   .intro {
@@ -120,6 +122,7 @@ footer {
     line-height: 0;
     column-count: 4;
     column-gap: 0px;
+    width: 100%;
 }
 
 .gallery >img {
@@ -469,7 +472,7 @@ footer {
 
   .imitation {
     float: left;
-    padding: 60px 80px 40px 80px;
+    padding: 60px 80px 40px 100px;
   }
 
   .imitation p {
@@ -701,6 +704,194 @@ footer {
 .gallery {
   column-count: 3;
 }
+
+ /*D-day Page*/
+  
+ .d-day {
+  width: 80%;
+  margin: auto;
+  padding-top: 40px;
+}
+
+#main-img {
+  text-align: center;
+}
+
+#normandy {
+  text-align: center;
+  padding: 40px 100px 150px 100px;
+}
+
+.alantic-wall {
+  text-align: center;
+  padding: 130px 80px 150px 80px;
+}
+
+.wall {
+  width: 80%;
+  display: block;
+  padding: 150px 80px 150px 80px;
+}
+
+.ex-tiger {
+  width: 80%;
+  display: block;
+  padding: 150px 80px 150px 80px;
+}
+
+.tiger {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.op-tonga {
+  width: 80%;
+  display: block;
+  padding: 150px 80px 150px 80px;
+}
+
+.tonga {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.beach-landing {
+  margin: auto;
+  width: 80%;
+  display: block;
+}
+
+.img-text {
+  text-align: center;
+  text-decoration: solid;
+}
+
+.utah-landing{
+  width: 80%;
+  display: block;
+  padding: 150px 80px 200px 80px;
+}
+
+.utah {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.landing {
+  width: 80%;
+  display: block;
+  padding: 250px 80px 200px 80px;
+}
+
+.ohmaha {
+  text-align: center;
+  padding: 250px 80px 150px 80px;
+}
+
+.begins {
+  width: 80%;
+  display: block;
+  padding: 200px 80px 150px 80px;
+}
+
+.invasion {
+  text-align: center;
+  padding: 350px 80px 150px 80px;
+}
+
+.climb {
+  width: 80%;
+  display: block;
+  padding: 200px 80px 150px 80px;
+}
+
+.hoc {
+  text-align: center;
+  padding: 250px 80px 150px 80px;
+}
+
+.ohmaha-landing {
+  width: 80%;
+  display: block;
+  padding: 100px 80px 150px 80px;
+}
+
+.sword {
+  text-align: center;
+  padding: 600px 80px 150px 80px;
+}
+
+.gold-landing {
+  width: 80%;
+  display: block;
+  padding: 220px 80px 150px 80px;
+}
+
+.gold {
+  text-align: center;
+  padding: 350px 80px 150px 80px;
+}
+
+.juno-landing {
+  width: 80%;
+  display: block;
+  padding: 150px 80px 150px 80px;
+}
+
+.juno {
+  text-align: center;
+  padding: 200px 80px 150px 80px;
+}
+
+.manor {
+  width: 80%;
+  display: block;
+  padding: 250px 80px 150px 80px;
+}
+
+.assault {
+  text-align: center;
+  padding: 200px 80px 150px 80px;
+}
+
+.aftermath {
+  text-align: center;
+  padding: 40px 100px 150px 100px;
+}
+
+.day-video {
+  width: 80%;
+  display: block;
+  padding: 0px 100px 40px 100px;
+}
+
+.day-video p {
+  padding: 50px 100px 10px 100px;
+}
+
+.programs {
+  display: block;
+  text-align: center;
+  padding: 100px 80px 100px 10px;
+}
+
+.film  {
+  text-align: center;
+  padding: 30px 80px 20px 80px;
+}
+
+.book {
+  text-align: center;
+  padding: 30px 80px 20px 80px;
+}
+
+.center-div {
+  float: none;
+  text-align: center;
+  padding: none;
+}
+
+
 }
 
 @media screen and (max-width: 800px) {
