@@ -379,7 +379,17 @@ footer {
 
   .sicily {
     float: left;
-    padding: 300px 80px 150px 80px;
+    padding: 150px 80px 150px 80px;
+  }
+
+  .reaction {
+    text-align: center;
+    padding: 150px 80px 150px 80px;
+  }
+
+  .scotland {
+    float: right;
+    padding: 150px 80px 150px 80px;
   }
 
   .after {
