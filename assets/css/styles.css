@@ -327,7 +327,7 @@ footer {
 
   .corpse {
     float: left;
-    padding: 150px 80px 150px 80px;
+    padding: 350px 80px 150px 80px;
   }
 
   .id-card {
@@ -876,6 +876,102 @@ footer {
 .center {
   text-align: center;
   padding: 100px 80px 20px 50px;
+}
+
+ /*Op Mincemeat Page*/
+
+.op-img {
+  text-align: center;
+  padding: 40px 100px 150px 100px
+}
+
+.identity {
+  text-align: center;
+  padding: 300px 100px 150px 100px;
+}
+
+.corpse {
+  width: 80%;
+  padding: 150px 80px 150px 80px;
+}
+
+.id-card {
+  width: 80%;
+  padding: 180px 80px 150px 80px;
+}
+
+.id {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.briefcase {
+  width: 80%;
+  padding: 150px 80px 150px 80px;
+}
+
+.documents {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.tech {
+  text-align: center;
+  padding: 200px 80px 150px 80px;
+}
+
+.canister {
+  width: 80%;
+  padding: 150px 80px 150px 80px;
+}
+
+.seraph-crew {
+  width: 80%;
+  padding: 270px 80px 150px 80px;
+}
+
+.execution {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.items{
+  width: 80%;
+  padding: 200px 80px 150px 80px;
+}
+
+.spanish {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.sicily {
+  width: 80%;
+  padding: 150px 80px 150px 80px;
+}
+
+.reaction {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.scotland {
+  width: 80%;
+  padding: 150px 80px 150px 80px;
+}
+
+.after {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.mince-video {
+  width: 80%;
+  padding: 0px 0px 80px 120px
+}
+
+.book {
+  padding: 30px 0px 80px 80px
 }
 
 
