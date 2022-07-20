@@ -8,7 +8,7 @@ body {
 }
   
 * {
-  padding: none;
+  padding: 0;
   margin: 0;
   border: none;
 }
@@ -317,7 +317,7 @@ footer {
   .center-day {
     float: none;
     text-align: center;
-    padding: none;
+    padding: 0;
   }
 
   /*Op Mincemeat Page*/
