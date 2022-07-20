@@ -82,6 +82,16 @@ p {
   cursor: pointer;
 }
 
+ul {
+  list-style-position: inside;
+  margin: auto;
+}
+
+li {
+  text-align: left;
+}
+
+
 footer {
   background: url(../images/background1.jpg);
   padding: 0px;
@@ -277,30 +287,33 @@ footer {
 
   .day-video {
     float: left;
-    padding: 0px 10px 40px 80px;
+    padding: 0px 10px 20px 80px;
   }
 
-  .day-video p {
-    padding: 20px 10px 10px 0px;
+  .video-p {
+    text-align: left;
+    padding: 20px 10px 10px 90px;
   }
 
-  .programs {
+  .programs-d {
     text-align: center;
-    padding: 80px 10px;
+    padding: 0px 80px 20px 80px;
   }
 
   .film  {
     display: inline-block;
+    line-height: 2em;
     text-align: center;
-    padding: 30px 80px 20px 80px;
+    padding: 20px 80px 20px 80px;
   }
   
   .book {
     text-align: center;
+    line-height: 2em;
     display: inline-block;
   }
 
-  .center-div {
+  .center-day {
     float: none;
     text-align: center;
     padding: none;
@@ -402,11 +415,21 @@ footer {
 
   .mince-video {
     float: left;
-    padding: 0px 0px 80px 80px
+    padding: 20px 0px 80px 80px
+  }
+  
+  .mince-p {
+    text-align: left;
+    padding: 20px 0px 10px 120px;
+  }
+
+  .programs-m {
+    text-align: center;
   }
 
   .book {
-    padding: 30px 0px 80px 80px
+    line-height: 2em;
+    padding: 30px 60px 80px 35px
   }
  
   /*Enigma Code Page*/
@@ -450,9 +473,8 @@ footer {
 
   .turing {
     float: left;
-    height: 40%;
-    width: 20%;
-    padding: 180px 80px 150px 80px;
+    width: 40%;
+    padding: 280px 80px 150px 80px;
   }
 
   .alan-turing {
@@ -460,7 +482,7 @@ footer {
     padding: 150px 80px 150px 80px;
   }
 
-  .inside {
+  .arerested {
     float: right;
     padding: 100px 80px 150px 80px;
   }
@@ -472,7 +494,7 @@ footer {
 
   .imitation {
     float: left;
-    padding: 60px 80px 40px 100px;
+    padding: 20px 80px 40px 100px;
   }
 
   .imitation p {
@@ -481,11 +503,13 @@ footer {
 
   .films {
     text-align: center;
+    line-height: 2em;
     padding: 20px 80px 40px 40px;
   }
 
   .books {
     text-align: center;
+    line-height: 2em;
     padding: 20px 80px 40px 40px;
   }
   
@@ -850,12 +874,12 @@ footer {
 }
 
 .day-video {
-  padding: 20px 80px 20px 120px;
+  padding: 20px 80px 20px 100px;
 }
 
 .video-p {
   text-align: center;
-  padding: 100px 80px 50px 80px;
+  padding: 100px 80px 20px 80px;
 }
 
 .programs {
@@ -967,11 +991,87 @@ footer {
 
 .mince-video {
   width: 80%;
-  padding: 0px 0px 80px 120px
+  padding: 0px 0px 80px 100px
 }
 
 .book {
   padding: 30px 0px 80px 80px
+}
+
+/*Enigma Code Page*/
+
+.machine {
+  width: 80%;
+  display: block;
+  padding-top: 40px;
+  margin: auto;
+}
+
+.enigma {
+  text-align: left;
+  display: block;
+  padding: 40px 80px 150px 80px;
+}
+
+.bletchley {
+  width: 80%;
+  padding: 220px 80px 150px 80px;
+}
+
+.park {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.bombe {
+  width: 80%;
+  padding: 200px 80px 150px 80px;
+}
+
+.uk-bombe {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.turing {
+  width: 80%;
+  margin: auto;
+  padding: 180px 80px 150px 80px;
+}
+
+.alan-turing {
+  text-align: center;
+  padding: 150px 80px 150px 80px;
+}
+
+.inside {
+  width: 80%;
+  padding: 100px 80px 150px 80px;
+}
+
+.indecency {
+  text-align: center;
+  padding: 100px 80px 150px 80px;
+}
+
+.imitation {
+  padding: 60px 80px 40px 100px;
+}
+
+.imitation p {
+  padding: 10px 40px 40px 0px;
+}
+
+.films {
+  text-align: center;
+  line-height: 2em;
+  padding: 20px 80px 40px 250px;
+}
+
+.books {
+  text-align: center;
+  line-height: 2em;
+  padding: 20px 80px 40px 150px;
 }
 
 
