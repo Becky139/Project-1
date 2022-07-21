@@ -726,6 +726,10 @@ footer {
         position: fixed;
     }
 
+.intro {
+  padding: 40px 100px 150px 100px;
+}
+
 .gallery {
   column-count: 3;
 }
@@ -1075,6 +1079,12 @@ footer {
   padding: 20px 80px 40px 150px;
 }
 
+ /*Contact Us Page*/
+ 
+.suggestions p {
+  text-align: center;
+  padding: 20px 100px 20px 100px;
+}
 
 }
 

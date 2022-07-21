@@ -61,8 +61,8 @@ Manual testing was conducted on the following elements that appear on every page
 
 - Clicking on the Navigation Bar's links will bring the user to the specified page.
 
-     ![Navigation Bar page links](assets/testing-files/nav_testing.gif)
-     ![Hamburger menu page links](assets/testing-files/ham_testing.gif)
+     ![Navigation Bar page links](assets/testing-files/nav-testing.gif)
+     ![Hamburger menu page links](assets/testing-files/ham-testing.gif)
 
 - Clicking the Back-to-top button, located at the bottom right of the screen, will bring the user to the top of the page.
 
@@ -78,11 +78,11 @@ Manual testing was conducted on the following elements of the [Contact Us Page](
 
   - When submitting the form you get directed to the [Contact Dump Page](contact-dump.html)
 
-      ![Form Sumit Link - Contact Us Page](assets/testing-files/form-submit.png)
+      ![Form Sumit Link - Contact Us Page](assets/testing-files/form-submit.gif)
 
   - Form reset or clear removes all text on the form 
 
-      ![Form Reset Link - Contact Us Page](assets/testing-files/form_reset.gif) 
+      ![Form Reset Link - Contact Us Page](assets/testing-files/form-reset.gif) 
 
 ### Mobile & Tablet Screens
 
