@@ -1090,7 +1090,7 @@ footer {
 
 @media screen and (max-width: 800px) {
 
-  .intro {
+  p {
     padding: 40px 50px 150px 50px;
   }
 
