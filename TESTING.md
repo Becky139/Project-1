@@ -127,6 +127,10 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
      ![Contact Dump Page HTML Validation Results](assets/testing-files/validate/validate-contact-dump.png)
 
+- CSS Code
+
+     ![CSS Code Page HTML Validation Results](assets/testing-files/validate/validate-css-code.png)
+
 ### Browser Validation
 - Chrome - [test image](assets/testing-file/validate/validate-chrome.PNG)
 - Edge - [test image](assets/testing-files/validate/validate-edge.PNG)
