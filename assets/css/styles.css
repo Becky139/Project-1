@@ -292,12 +292,12 @@ footer {
 
   .video-p {
     text-align: left;
-    padding: 20px 10px 10px 90px;
+    padding: 20px 10px 0px 90px;
   }
 
   .programs-d {
     text-align: center;
-    padding: 0px 80px 20px 80px;
+    padding: 0px 50px 0px 80px;
   }
 
   .film  {
@@ -308,9 +308,9 @@ footer {
   }
   
   .book {
-    text-align: center;
     line-height: 2em;
     display: inline-block;
+    padding: 20px 80px 20px 80px;
   }
 
   .center-day {
@@ -415,7 +415,7 @@ footer {
 
   .mince-video {
     float: left;
-    padding: 20px 0px 80px 80px
+    padding: 20px 0px 80px 100px
   }
   
   .mince-p {
@@ -429,7 +429,7 @@ footer {
 
   .book {
     line-height: 2em;
-    padding: 30px 60px 80px 35px
+    padding: 30px 60px 80px 45px
   }
  
   /*Enigma Code Page*/
@@ -499,6 +499,10 @@ footer {
 
   .imitation p {
     padding: 10px 40px 40px 0px;
+  }
+
+  .programs-e {
+    padding: 80px;
   }
 
   .films {
@@ -1081,8 +1085,11 @@ footer {
 }
 
 .bletchley {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
-  padding: 220px 80px 150px 80px;
+  padding: 220px 50px 150px 50px;
 }
 
 .park {
@@ -1091,8 +1098,11 @@ footer {
 }
 
 .bombe {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
-  padding: 200px 80px 150px 80px;
+  padding: 200px 50px 150px 50px;
 }
 
 .uk-bombe {
@@ -1101,9 +1111,11 @@ footer {
 }
 
 .turing {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   width: 80%;
-  margin: auto;
-  padding: 180px 80px 150px 80px;
+  padding: 180px 50px 150px 50px;
 }
 
 .alan-turing {
@@ -1111,34 +1123,44 @@ footer {
   padding: 150px 50px 150px 50px;
 }
 
-.inside {
-  width: 80%;
-  padding: 100px 80px 150px 80px;
-}
-
 .indecency {
   text-align: center;
   padding: 100px 50px 150px 50px;
 }
 
+.arerested {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 80%;
+  padding: 100px 50px 150px 50px;
+}
+
 .imitation {
-  padding: 60px 80px 40px 100px;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  padding: 60px 20px 40px 20px;
 }
 
 .imitation p {
   padding: 10px 40px 40px 0px;
 }
 
+.programs-e {
+  text-align: center;
+}
+
 .films {
   text-align: center;
   line-height: 2em;
-  padding: 20px 80px 40px 250px;
+  padding: 20px 50px 40px 50px;
 }
 
 .books {
   text-align: center;
   line-height: 2em;
-  padding: 20px 80px 40px 150px;
+  padding: 20px 50px 40px 50px;
 }
 
  /*Contact Us Page*/
