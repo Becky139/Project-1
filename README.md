@@ -143,6 +143,8 @@ To deploy this page to GitHub Pages from its GitHub repository, the following st
      - [Wkipedia](https://wikipedia.com/)
      - [History](https://history.com/)
      - [IWM](https://https://www.iwm.org.uk/)
+     - [Favicon](https://www.favicon.cc/)
+     
 ### Media
 - Almost all the images came from [Wikipedia](https://wikipedia.com/) but also got some from [IWM](https://https://www.iwm.org.uk/) and [Google Pictures](https://photos.google.com/)
 - All videos were sourced from various channels on [YouTube](https://youtube.com/ "Link to YouTube Home Page")

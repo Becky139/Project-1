@@ -4,7 +4,7 @@
 
 [View live project](add link)
 
-[View GitHub repository](add link)
+[View GitHub repository](https://github.com/Becky139/stories-of-ww2)
 
 ***
 ## Table of contents
@@ -138,7 +138,8 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 
 ## User testing 
 
+My Mum, Sister also freinds Kim, Irah and the lovely people of Slack were asked to review the site and documentation to point out any bugs and/or user experience issues. Their helpful advice throughout the process led to a few small UX changes in order to create a better experience.
 
-[Back to top](#Stories-of-WW2-Testing)
+[Back to top](#Stories-of-WW2---Testing)
 
 ***
