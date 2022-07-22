@@ -598,9 +598,12 @@ footer {
   color: #1e3132;
 }
 
-.text-dump h1 {
-  text-align: center;
-  color: #1e3132;
+h3 {
+  padding: 10px;
+}
+
+.contact-img {
+  width: 36%;
 }
 
 /* Media Queries */
@@ -728,6 +731,12 @@ footer {
     .hamburger-menu:target + .backdrop,
     .hamburger-menu[aria-expanded="true"] + .backdrop{
         position: fixed;
+    }
+
+    .social-networks i {
+      font-size: 2em;
+      margin: 20px 30px;
+      color: white;
     }
 
 .intro {
@@ -1170,6 +1179,15 @@ footer {
   padding: 20px 100px 20px 100px;
 }
 
+/* Contact Dump */
+
+.text-dump {
+  padding: 10px 30px 10px 30px
+}
+
+.contact-img {
+  width: 80%;
+}
 }
 
 @media screen and (max-width: 800px) {
