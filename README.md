@@ -91,8 +91,9 @@ The developer ran into several issues during the development of the website, wit
 
 **Navigation Bar/Hamburger Menu Responsiveness Bug** - A bug was detected while introducing responsiveness to the navigation bar and hamburger menu. At 1200px exactly, both the navigation bar and hamburger menus vanished. It was found that this was caused by setting the hamburger menu to be hidden at 1200px and up, and the navigation bar to be hidden at 1200px and down. The issue was rectified simply by changing the hamburger menu to be hidden from 1201px and up instead.
 
-**Navigation Bar Text Color Bug** - A bug was detected when I added the hamburger menu the main text color was not showing and the main navigation bar. The fix was to add text color to the class nav-bar a so it applied once this was done the main text color appeared as its correct white color and the blue hover color only when hovering.
+**Navigation Bar Text Color Bug** - A bug was detected when I added the hamburger menu the main text color was not showing and the main navigation bar. The fix was to add text color to the class nav-bar a so it applied once this was done the main text color appeared as its correct white color.
 
+**Contact Us Page Footer Bug** - A bug was detected on the contact us page where the footer was not diplaying its social network icons. The fix was to add the missing font awesome link at the bottem with this missing the icons could not be displayed, once added and saved the icons appeared correctly.
 
 [Back to top](#Stories-of-WW2)
 
@@ -105,6 +106,8 @@ The developer ran into several issues during the development of the website, wit
 ### Frameworks, Libraries & Programs Used
 - [Google Fonts](https://fonts.google.com/ "Link to Google Fonts")
     - Google fonts was used to import the fonts into the style.css file. These fonts were used throughout the project.
+- [Favicon](https://www.favicon.cc/ "Link to Favicon Generator")
+     - Favicon was used to add an icon to the website tab. These were used throughout the project.
 - [wikipedia](https://wikipedia.com/)
      - Wikipedia was used to get alot of the facts and pictures used thoughout the project.
 - [History Page](https://history.com/)
@@ -161,7 +164,7 @@ The developer consulted multiple sites in order to better understand the code th
 ## Acknowledgements
 
 - I would like to thank my family for their valued opinions and critic during the process of design and development.
-- I would like to thank my tutor, for their invaluable help and guidance throughout the process.
+- I would like to thank my tutor Seun, for their invaluable help and guidance throughout the process.
 - Lastly, I would like to extend my deepest gratitude to the amazing people in Slack who helped me rigorously test every aspect of my site.
 
 [Back to top](#Stories-of-WW2)
