@@ -95,6 +95,8 @@ The developer ran into several issues during the development of the website, wit
 
 **Contact Us Page Footer Bug** - A bug was detected on the contact us page where the footer was not diplaying its social network icons. The fix was to add the missing font awesome link at the bottem with this missing the icons could not be displayed, once added and saved the icons appeared correctly.
 
+**Feedback Box Lack of Responsiveness Bug** - A bug was detected with the feedback box not shrinking for smaller screens the fix was to add some css code for the text area to make the box smaller on mobile and tablet screens.
+
 [Back to top](#Stories-of-WW2)
 
 ## Technologies Used
