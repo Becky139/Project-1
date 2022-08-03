@@ -551,7 +551,7 @@ footer {
     margin: 20px;
     margin-left: 1rem;
     padding: 0.75rem;
-    background-color: #180A0A;
+    background-color: #9d1313;
     color: white;
     border: 1px solid #180A0A;
     border-radius: 5px;
@@ -566,7 +566,6 @@ footer {
     border: 1px solid #362222;
     border-radius: 5px;
   }
-  
   
   input[type=text],
   input[type=email] {
@@ -586,9 +585,16 @@ footer {
   font-size: large;
 }
 
+.feedback {
+  padding: 10px;
+  line-height: 2em;
+  margin: auto;
+}
+
 .button {
   display: inline-block;
   text-align: center;
+  cursor:pointer;
 }
 
 /* Contact Dump */
@@ -766,23 +772,18 @@ h3 {
 
 .alantic-wall {
   text-align: center;
-  padding: 50px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .wall {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px;
 }
 
 .ex-tiger {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .tiger {
@@ -792,10 +793,8 @@ h3 {
 
 .op-tonga {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .tonga {
@@ -805,10 +804,8 @@ h3 {
 
 .beach-landing {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 20px 50px 100px 50px
 }
 
 .img-text {
@@ -820,10 +817,8 @@ h3 {
 
 .utah-landing{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .utah {
@@ -833,10 +828,8 @@ h3 {
 
 .landing {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .ohmaha {
@@ -846,10 +839,8 @@ h3 {
 
 .begins {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .invasion {
@@ -859,10 +850,8 @@ h3 {
 
 .climb {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .hoc {
@@ -872,10 +861,8 @@ h3 {
 
 .ohmaha-landing {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .sword {
@@ -885,10 +872,8 @@ h3 {
 
 .gold-landing {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .gold {
@@ -898,10 +883,8 @@ h3 {
 
 .juno-landing {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .juno {
@@ -911,10 +894,8 @@ h3 {
 
 .manor {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .assault {
@@ -928,28 +909,21 @@ h3 {
 }
 
 .day-video {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 20px;
+  width: 60%;
+  margin: auto;
+  padding-left: 300px;
 }
 
 .video-p {
   text-align: center;
-  padding: 100px 80px 20px 80px;
+  margin: auto;
 }
 
-.film  {
+.programs-d {
   text-align: center;
-  padding: 30px 20px 20px 20px;
+  margin: auto;
+  padding-top: 350px;
 }
-
-.book {
-  text-align: center;
-  padding: 30px 20px 20px 20px;
-}
-
-
 
  /*Op Mincemeat Page*/
 
