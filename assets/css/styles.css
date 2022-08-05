@@ -153,45 +153,43 @@ footer {
 
   #normandy {
     text-align: center;
-    padding: 40px 200px 150px 200px;
+    padding: 50px 200px 50px 200px;
   }
 
   .alantic-wall {
     text-align: center;
-    padding: 130px 80px 150px 80px;
+    padding: 50px 80px 50px 80px;
   }
 
   .wall {
     float: left;
-    padding: 150px 80px 150px 80px;
+    padding: 50px 80px 50px 80px;
   }
 
   .ex-tiger {
     float: right;
-    padding: 150px 80px 150px 80px;
+    padding: 50px 80px 50px 80px;
   }
 
   .tiger {
     text-align: center;
-    padding: 150px 80px 150px 80px;
+    padding: 50px 80px 50px 80px;
   }
 
   .op-tonga {
     float: left;
-    padding: 150px 80px 150px 80px;
+    padding: 50px 80px 50px 80px;
   }
 
   .tonga {
     text-align: center;
-    padding: 150px 80px 150px 80px;
+    padding: 50px 80px 50px 80px;
   }
 
   .beach-landing {
     margin: auto;
     width: 90%;
-    padding-left: 70px;
-    padding-top: 20px;
-    padding-bottom: 150px;
+    display: block;
   }
 
   .img-text {
@@ -201,88 +199,88 @@ footer {
 
   .utah-landing{
     float: right;
-    padding: 150px 80px 200px 80px;
+    padding: 150px 80px 50px 80px;
   }
 
   .utah {
     text-align: center;
-    padding: 150px 80px 150px 80px;
+    padding: 150px 80px 50px 80px;
   }
 
   .landing {
     float: left;
-    padding: 250px 80px 200px 80px;
+    padding: 250px 80px 50px 80px;
   }
 
   .ohmaha {
     text-align: center;
-    padding: 250px 80px 150px 80px;
+    padding: 250px 80px 50px 80px;
   }
   
   .begins {
     float: right;
-    padding: 200px 80px 150px 80px;
+    padding: 200px 80px 50px 80px;
   }
 
   .invasion {
     text-align: center;
-    padding: 350px 80px 150px 80px;
+    padding: 350px 80px 50px 80px;
   }
 
   .climb {
     float: left;
-    padding: 200px 80px 150px 80px;
+    padding: 200px 80px 50px 80px;
   }
 
   .hoc {
     text-align: center;
-    padding: 250px 80px 150px 80px;
+    padding: 250px 80px 50px 80px;
   }
   
   .ohmaha-landing {
     float: left;
-    padding: 200px 80px 150px 80px;
+    padding: 200px 80px 50px 80px;
     width: 50%;
   }
 
   .sword {
     text-align: center;
-    padding: 400px 80px 150px 80px;
+    padding: 400px 80px 50px 80px;
   }
 
   .gold-landing {
     float: right;
-    padding: 220px 80px 150px 80px;
+    padding: 220px 80px 50px 80px;
   }
 
   .gold {
     text-align: center;
-    padding: 350px 80px 150px 80px;
+    padding: 350px 80px 50px 80px;
   }
 
   .juno-landing {
     float: right;
-    padding: 150px 80px 150px 80px;
+    padding: 150px 80px 50px 80px;
   }
 
   .juno {
     text-align: center;
-    padding: 200px 80px 150px 80px;
+    padding: 200px 80px 50px 80px;
   }
 
   .manor {
     float: left;
-    padding: 250px 80px 150px 80px;
+    padding: 250px 80px 50px 80px;
   }
 
   .assault {
     text-align: center;
-    padding: 200px 80px 150px 80px;
+    padding: 200px 80px 50px 80px;
   }
 
   .aftermath {
     text-align: center;
-    padding: 40px 200px 150px 200px;
+    padding: 40px 200px 50px 200px;
   }
 
   .day-video {
@@ -292,7 +290,7 @@ footer {
 
   .video-p {
     text-align: left;
-    padding: 20px 10px 0px 90px;
+    padding: 20px 10px 10px 90px;
   }
 
   .programs-d {
@@ -767,21 +765,24 @@ h3 {
 
 #normandy {
   text-align: center;
-  padding: 40px 50px 150px 50px;
+  padding: 40px 70px 150px 70px;
 }
 
 .alantic-wall {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 50px 70px 50px 70px;
 }
 
 .wall {
   display: block;
+  float: none;
+  margin: auto;
   width: 80%;
 }
 
 .ex-tiger {
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
@@ -793,17 +794,19 @@ h3 {
 
 .op-tonga {
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
 
 .tonga {
-  text-align: center;
+  float: none;
   padding: 150px 50px 150px 50px;
 }
 
 .beach-landing {
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
@@ -817,6 +820,7 @@ h3 {
 
 .utah-landing{
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
@@ -828,6 +832,7 @@ h3 {
 
 .landing {
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
@@ -839,6 +844,7 @@ h3 {
 
 .begins {
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
@@ -850,6 +856,7 @@ h3 {
 
 .climb {
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
@@ -861,6 +868,7 @@ h3 {
 
 .ohmaha-landing {
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
@@ -872,6 +880,7 @@ h3 {
 
 .gold-landing {
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
@@ -883,6 +892,7 @@ h3 {
 
 .juno-landing {
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
@@ -894,6 +904,7 @@ h3 {
 
 .manor {
   display: block;
+  float: none;
   margin: auto;
   width: 80%;
 }
@@ -909,7 +920,9 @@ h3 {
 }
 
 .day-video {
+  display: block;
   width: 60%;
+  float: none;
   margin: auto;
   padding-left: 300px;
 }
@@ -1177,6 +1190,12 @@ p {
 
 .gallery {
   column-count: 2;
+}
+
+.foot {
+  position: fixed;
+  bottom: 0;
+  width: 100%;
 }
 
 textarea {
