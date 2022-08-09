@@ -7,7 +7,11 @@
 ##Table of contents
 
 1. [Introduction](#Introduction)
-    1. [Wireframes](#Wireframes)
+2. [UX](#UX)
+    1. [Ideal User Demographic](#Ideal-User-Demographic)
+    2. [User Stories](#User-Stories)
+    3. [Development Planes](#Development-Planes)
+    4. [Design](#Design)
 2. [Features](#Features)
     1. [Design Features](#Design-Features)
     2. [Existing Features](#Existing-Features)
@@ -36,7 +40,64 @@ This website was made for the first of five Milestone projects required to compl
 
 The main requirements of this project are to build a responsive and static front-end site to present useful information to users using all the technologies learned so far, namely HTML5 and CSS3. The site is to contain no less than three pages.
 
-### Wireframes 
+## UX
+### Ideal User Demographic
+The ideal user for this website is:
+* Current user
+* New user
+* Historians 
+
+### User-Stories
+#### Current User Goals
+1. As a current user, I want to easily navigate through the site and access the information I require with ease.
+2. As a current user, I want to easily navigate to content I have previously viewed within a small number of steps.
+3. As a current user, I would like to see new content added that works with the current format.
+
+#### New User Goals
+1. As a new user, I want to easily navigate the entire site intuitively. 
+2. As a new user, I want the information I seek to be easily accessible and relevant.
+3. As a new user, I want attractive and relevant visuals and colour schemes that work with the content.
+
+### Development-Planes
+To create a comprehensive website that explains some of the most amazing stories of WW2 giving the user a desire to find out more about these events and maybe even find out some new ones as well.
+
+#### Strategy
+Strategy incorporates user needs as well as product objectives. This website will focus on the following target audience, divided into three main categories:
+- **Roles:**
+    - Current users
+    - New users
+    - Historians
+
+- **Demographic:**
+    - All ages
+    - Worldwide
+
+
+#### Scope
+The scope plane is about defining requirements based on the goals established on the strategy plane. Using the information in the strategy plane, the identified required features have been broken into the following two categories.
+- Content Requirements:
+    - The user will be looking for:
+        - Accuate information and facts
+        - Images of the events
+        - Contact Form
+- Functionality Requirements:
+    - The user will be able to:
+        - Be able to easily navigate the site to find the information they require.
+        - Be able to contact the site to report possible issues and also give suggestions.
+
+#### Structure
+The information above was then organized in a hierarchical tree structure, a site map, showing how users can navigate through the site with ease and efficiency, with the following results:
+
+
+<details>
+<summary>Site Map</summary>
+
+![Site Map](assets/readme-files/sitemap.png)
+
+</details>
+
+
+#### Skeleton
 Wireframes were made to showcase the appearance of the site pages while keeping a positive user experience in mind. The wireframes were created using a desktop version of [Balsamiq](https://balsamiq.com/).
 
 
