@@ -92,7 +92,7 @@ The information above was then organized in a hierarchical tree structure, a sit
 <details>
 <summary>Site Map</summary>
 
-![Site Map](assets/readme-files/sitemap.png)
+![Site Map](assets/readme-files/site-map.png)
 
 </details>
 
