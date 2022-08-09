@@ -952,10 +952,9 @@ h3 {
 
 .corpse {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
-  padding: 150px 50px 100px 50px
 }
 
 .id-card {
@@ -963,7 +962,6 @@ h3 {
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  padding: 180px 50px 150px 50px;
 }
 
 .id {
@@ -973,10 +971,9 @@ h3 {
 
 .briefcase {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
-  padding: 150px 50px 150px 50px;
 }
 
 .documents {
@@ -991,18 +988,16 @@ h3 {
 
 .canister {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
-  padding: 150px 50px 150px 50px;
 }
 
 .seraph-crew {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
-  padding: 270px 50px 150px 50px;
 }
 
 .execution {
@@ -1012,10 +1007,9 @@ h3 {
 
 .items{
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
-  padding: 200px 50px 150px 50px;
 }
 
 .spanish {
@@ -1025,10 +1019,9 @@ h3 {
 
 .sicily {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
-  padding: 150px 50px 150px 50px;
 }
 
 .reaction {
@@ -1038,10 +1031,9 @@ h3 {
 
 .scotland {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
-  padding: 150px 50px 150px 50px;
 }
 
 .after {
@@ -1051,9 +1043,8 @@ h3 {
 
 .mince-video {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 0px 20px 80px 20px
+  margin: auto;
+  float: none;
 }
 
 .mince-p {
