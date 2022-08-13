@@ -1,3 +1,5 @@
+/*CSS for all pages*/
+
 @import url('https://fonts.googleapis.com/css2?family=Lato&family=Open+Sans&family=Oswald&display=swap');
 
 body {
@@ -942,12 +944,12 @@ h3 {
 
 .op-img {
   text-align: center;
-  padding: 40px 100px 150px 100px
+  padding: 40px 100px 50px 100px
 }
 
 .identity {
   text-align: center;
-  padding: 300px 50px 150px 50px;
+  padding: 20px 50px 50px 50px;
 }
 
 .corpse {
@@ -966,7 +968,7 @@ h3 {
 
 .id {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 20px 50px 50px 50px;
 }
 
 .briefcase {
@@ -978,12 +980,12 @@ h3 {
 
 .documents {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 20px 50px 50px 50px;
 }
 
 .tech {
   text-align: center;
-  padding: 200px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .canister {
@@ -1002,7 +1004,7 @@ h3 {
 
 .execution {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .items{
@@ -1014,7 +1016,7 @@ h3 {
 
 .spanish {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .sicily {
@@ -1026,7 +1028,7 @@ h3 {
 
 .reaction {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .scotland {
@@ -1038,13 +1040,14 @@ h3 {
 
 .after {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .mince-video {
   display: block;
   margin: auto;
   float: none;
+  padding: 10px 100px 50px 150px;
 }
 
 .mince-p {
