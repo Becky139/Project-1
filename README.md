@@ -2,7 +2,7 @@
 
 ![mockup images](assets/readme-files/stories-of-ww2.png)
 
-[view the live project here]add link
+[view the live project here](https://becky139.github.io/stories-of-ww2/)
 
 ##Table of contents
 

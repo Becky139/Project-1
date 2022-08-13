@@ -2,7 +2,7 @@
 
 [Main README.md file](/README.md)
 
-[View live project](add link)
+[View live project](https://becky139.github.io/stories-of-ww2/)
 
 [View GitHub repository](https://github.com/Becky139/stories-of-ww2)
 
