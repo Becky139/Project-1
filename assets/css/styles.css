@@ -1071,66 +1071,62 @@ h3 {
 .enigma {
   text-align: left;
   display: block;
-  padding: 40px 50px 150px 50px;
+  padding: 40px 50px 50px 50px;
 }
 
 .bletchley {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
   width: 80%;
-  padding: 220px 50px 150px 50px;
+  float: none;
 }
 
 .park {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 20px 50px 50px 50px;
 }
 
 .bombe {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
-  padding: 200px 50px 150px 50px;
 }
 
 .uk-bombe {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 20px 50px 50px 50px;
 }
 
 .turing {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
-  padding: 180px 50px 150px 50px;
 }
 
 .alan-turing {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 20px 50px 50px 50px;
 }
 
 .indecency {
   text-align: center;
-  padding: 100px 50px 150px 50px;
+  padding: 20px 50px 50px 50px;
 }
 
 .arerested {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
-  padding: 100px 50px 150px 50px;
 }
 
 .imitation {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  padding: 60px 20px 40px 20px;
+  margin: auto;
+  float: none;
+  padding: 20px 100px 50px 150px;
 }
 
 .imitation p {
