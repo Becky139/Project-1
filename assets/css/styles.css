@@ -14,6 +14,8 @@ body {
   border: none;
 }
 
+/*Headers Nav Bar and Footer*/
+
 .head {
   background: url(../images/background1.jpg);
   color: #fff;
@@ -767,7 +769,7 @@ h3 {
 
 #normandy {
   text-align: center;
-  padding: 40px 70px 150px 70px;
+  padding: 40px 70px 50px 70px;
 }
 
 .alantic-wall {
@@ -791,7 +793,7 @@ h3 {
 
 .tiger {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .op-tonga {
@@ -803,7 +805,7 @@ h3 {
 
 .tonga {
   float: none;
-  padding: 150px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .beach-landing {
@@ -829,7 +831,7 @@ h3 {
 
 .utah {
   text-align: center;
-  padding: 150px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .landing {
@@ -841,7 +843,7 @@ h3 {
 
 .ohmaha {
   text-align: center;
-  padding: 250px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .begins {
@@ -853,7 +855,7 @@ h3 {
 
 .invasion {
   text-align: center;
-  padding: 350px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .climb {
@@ -865,7 +867,7 @@ h3 {
 
 .hoc {
   text-align: center;
-  padding: 250px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .ohmaha-landing {
@@ -877,7 +879,7 @@ h3 {
 
 .sword {
   text-align: center;
-  padding: 600px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .gold-landing {
@@ -889,7 +891,7 @@ h3 {
 
 .gold {
   text-align: center;
-  padding: 350px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .juno-landing {
@@ -901,7 +903,7 @@ h3 {
 
 .juno {
   text-align: center;
-  padding: 200px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .manor {
@@ -913,12 +915,12 @@ h3 {
 
 .assault {
   text-align: center;
-  padding: 200px 50px 150px 50px;
+  padding: 50px 50px 50px 50px;
 }
 
 .aftermath {
   text-align: center;
-  padding: 40px 50px 150px 50px;
+  padding: 40px 50px 50px 50px;
 }
 
 .day-video {
