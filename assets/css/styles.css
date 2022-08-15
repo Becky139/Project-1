@@ -289,15 +289,16 @@ footer {
 
   .day-video {
     float: left;
+    width: 40%;
     padding: 0px 10px 20px 80px;
   }
 
   .video-p {
     text-align: left;
-    padding: 20px 10px 10px 90px;
   }
 
   .programs-d {
+    float: right;
     text-align: center;
     padding: 0px 50px 0px 80px;
   }
@@ -417,21 +418,19 @@ footer {
 
   .mince-video {
     float: left;
-    padding: 20px 0px 80px 100px
+    width: 35%;
+    padding: 40px;
   }
   
   .mince-p {
-    text-align: left;
-    padding: 20px 0px 10px 120px;
-  }
-
-  .programs-m {
     text-align: center;
   }
 
-  .book {
+  .programs-m {
+    float: right;
+    text-align: center;
+    padding: 200px 50px 50px 50px;
     line-height: 2em;
-    padding: 30px 60px 80px 45px
   }
  
   /*Enigma Code Page*/
@@ -496,6 +495,7 @@ footer {
 
   .imitation {
     float: left;
+    width: 40%;
     padding: 20px 80px 40px 100px;
   }
 
@@ -504,7 +504,7 @@ footer {
   }
 
   .programs-e {
-    padding: 80px;
+    padding: 20px;
   }
 
   .films {
@@ -769,12 +769,12 @@ h3 {
 
 #normandy {
   text-align: center;
-  padding: 40px 70px 50px 70px;
+  padding: 40px 70px 40px 70px;
 }
 
 .alantic-wall {
   text-align: center;
-  padding: 50px 70px 50px 70px;
+  padding: 40px 70px 40px 70px;
 }
 
 .wall {
@@ -782,6 +782,7 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .ex-tiger {
@@ -789,11 +790,12 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .tiger {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 40px 50px 40px 50px;
 }
 
 .op-tonga {
@@ -801,11 +803,12 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .tonga {
   float: none;
-  padding: 50px 50px 50px 50px;
+  padding: 40px 50px 40px 50px;
 }
 
 .beach-landing {
@@ -813,6 +816,7 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding-bottom: 30px;
 }
 
 .img-text {
@@ -827,11 +831,12 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .utah {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 40px 50px 40px 50px;
 }
 
 .landing {
@@ -839,11 +844,12 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .ohmaha {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 40px 50px 40px 50px;
 }
 
 .begins {
@@ -851,11 +857,12 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .invasion {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 40px 50px 40px 50px;
 }
 
 .climb {
@@ -863,11 +870,12 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .hoc {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 40px 50px 40px 50px;
 }
 
 .ohmaha-landing {
@@ -875,11 +883,12 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .sword {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 40px 50px 40px 50px;
 }
 
 .gold-landing {
@@ -887,11 +896,12 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .gold {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 40px 50px 40px 50px;
 }
 
 .juno-landing {
@@ -899,11 +909,12 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .juno {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 40px 50px 40px 50px;
 }
 
 .manor {
@@ -911,35 +922,38 @@ h3 {
   float: none;
   margin: auto;
   width: 80%;
+  padding: 0px;
 }
 
 .assault {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 50px;
 }
 
 .aftermath {
   text-align: center;
-  padding: 40px 50px 50px 50px;
+  padding: 40px 50px 40px 50px;
+}
+
+.center-day{
+  text-align: center;
+  margin: auto;
+  padding: 20px;
 }
 
 .day-video {
   display: block;
-  width: 60%;
+  width: 80%;
+  height: auto;
   float: none;
   margin: auto;
-  padding-left: 300px;
-}
-
-.video-p {
-  text-align: center;
-  margin: auto;
+  padding: 0px;
 }
 
 .programs-d {
   text-align: center;
   margin: auto;
-  padding-top: 350px;
+  padding-top: 50px;
 }
 
  /*Op Mincemeat Page*/
@@ -951,7 +965,7 @@ h3 {
 
 .identity {
   text-align: center;
-  padding: 20px 50px 50px 50px;
+  padding: 20px 50px 40px 50px;
 }
 
 .corpse {
@@ -959,18 +973,20 @@ h3 {
   margin: auto;
   float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .id-card {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
+  margin: auto;
+  float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .id {
   text-align: center;
-  padding: 20px 50px 50px 50px;
+  padding: 20px 50px 40px 50px;
 }
 
 .briefcase {
@@ -978,16 +994,17 @@ h3 {
   margin: auto;
   float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .documents {
   text-align: center;
-  padding: 20px 50px 50px 50px;
+  padding: 20px 50px 40px 50px;
 }
 
 .tech {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 50px 50px 40px 50px;
 }
 
 .canister {
@@ -995,6 +1012,7 @@ h3 {
   margin: auto;
   float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .seraph-crew {
@@ -1002,11 +1020,12 @@ h3 {
   margin: auto;
   float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .execution {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 50px 50px 40px 50px;
 }
 
 .items{
@@ -1014,11 +1033,12 @@ h3 {
   margin: auto;
   float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .spanish {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 50px 50px 40px 50px;
 }
 
 .sicily {
@@ -1026,11 +1046,12 @@ h3 {
   margin: auto;
   float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .reaction {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 50px 50px 40px 50px;
 }
 
 .scotland {
@@ -1038,18 +1059,20 @@ h3 {
   margin: auto;
   float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .after {
   text-align: center;
-  padding: 50px 50px 50px 50px;
+  padding: 50px 50px 40px 50px;
 }
 
 .mince-video {
   display: block;
   margin: auto;
   float: none;
-  padding: 10px 100px 50px 150px;
+  width: 80%;
+  padding: 0px;
 }
 
 .mince-p {
@@ -1057,8 +1080,8 @@ h3 {
   padding: 50px;
 }
 
-.book {
-  padding: 30px 50px 80px 50px
+.programs-m {
+  padding: 40px 50px 40px 50px
 }
 
 /*Enigma Code Page*/
@@ -1081,6 +1104,7 @@ h3 {
   margin: auto;
   width: 80%;
   float: none;
+  padding: 0px;
 }
 
 .park {
@@ -1093,6 +1117,7 @@ h3 {
   margin: auto;
   float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .uk-bombe {
@@ -1105,6 +1130,7 @@ h3 {
   margin: auto;
   float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .alan-turing {
@@ -1122,21 +1148,24 @@ h3 {
   margin: auto;
   float: none;
   width: 80%;
+  padding: 0px;
 }
 
 .imitation {
   display: block;
   margin: auto;
   float: none;
-  padding: 20px 100px 50px 150px;
+  padding: 0px;
+  width: 80%;
 }
 
 .imitation p {
-  padding: 10px 40px 40px 0px;
+  padding: 10px 40px 40px 40px;
 }
 
 .programs-e {
   text-align: center;
+  padding: 40px;
 }
 
 .films {
@@ -1177,7 +1206,7 @@ textarea {
 @media screen and (max-width: 800px) {
 
 p {
-  padding: 40px 30px 150px 30px;
+  padding: 40px 30px 40px 30px;
 }
 
 .gallery {
