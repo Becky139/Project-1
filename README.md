@@ -130,8 +130,6 @@ Each page within the site has a consistent and responsive navigation system. The
 - The **Footer** is 100% in width and 40px in height. It stays at the bottom of the screen at all times, on all screen sizes. Each social media link opens in a new tab.
 - The **Contact Form** is to provide a way for users to contact the develper with feedback or with ideas for more stories to be added to the site. The form can not be submitted without at boxes being filled out.
 
-list of pages and content layout
-
 ### Existing Features
 - **Header** - Appearing on almost every page for brand recognition.
 - **Navigation Bar** - Appearing on almost every page for a consistently easy and intuitive navigable system on larger screens.
