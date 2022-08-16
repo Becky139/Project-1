@@ -59,6 +59,7 @@ The ideal user for this website is:
 1. As a new user, I want to easily navigate the entire site intuitively. 
 2. As a new user, I want the information I seek to be easily accessible and relevant.
 3. As a new user, I want attractive and relevant visuals and colour schemes that work with the content.
+4. As a new user, I want to get access to factually accurate informatiom about WW2.
 
 ### Development-Planes
 To create a comprehensive website that explains some of the most amazing stories of WW2 giving the user a desire to find out more about these events and maybe even find out some new ones as well.
