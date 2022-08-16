@@ -291,7 +291,7 @@ footer {
 .day-video {
 	float: left;
 	width: 40%;
-	padding: 0px 10px 20px 80px;
+	padding: 0px 10px 40px 80px;
 }
 
 .video-p {
@@ -301,7 +301,7 @@ footer {
 .programs-d {
 	float: right;
 	text-align: center;
-	padding: 0px 50px 0px 80px;
+	padding: 60px 50px 40px 80px;
 }
 
 .film {
@@ -1092,7 +1092,7 @@ input[type=email] {
 		.programs-m {
 			text-align: center;
 			float: none;
-			padding: none
+			padding: 40px
 		}
 
 		.programs-m li {
