@@ -1,4 +1,4 @@
-# Stories of WW2 - Testing 
+# Stories of WW2 Testing 
 
 [Main README.md file](/README.md)
 
@@ -53,7 +53,7 @@
   - An attractive colour palette was created using [Color Mind](http://colormind.io/ "Link to Color Mind Home Page").
   - Relavant images were found using [Unsplash](https://unsplash.com "Link to Unsplash Home Page") and [Pixabay](https://pixabay.com "Link to Pixabay Home Page").
 
-![Back to top](#Stories-of-WW2-Testing)
+[Back to top](#Stories-of-WW2-Testing)
 
 ## Manual Testing
 
@@ -97,6 +97,8 @@ Manual testing was conducted on the following elements of the [Contact Us Page](
      
      ![Mobile Screen - Home Page](assets/testing-files/validate/validate-mobile.png)
      ![Mobile Screen Gallery - Home Page](assets/testing-files/validate/validate-mobile-gallery.png)
+
+[Back to top](#Stories-of-WW2-Testing)
 
 ## Automated Testing
 
@@ -171,8 +173,10 @@ Lighthouse was used to get accessibility of the site
 
 ## User testing 
 
-My Mum, Sister also freinds Kim, Irah and the lovely people of Slack were asked to review the site and documentation to point out any bugs and/or user experience issues. Their helpful advice throughout the process led to a few small UX changes in order to create a better experience.
+- I would like to thank my family for their valued opinions and critic during the process of design and development.
+- I would like to thank my tutor Seun, for their invaluable help and guidance throughout the process.
+- Lastly, I would like to extend my deepest gratitude to the amazing people in Slack who helped me rigorously test every aspect of my site.
 
-![Back to top](#Stories-of-WW2---Testing)
+[Back to top](#Stories-of-WW2-Testing)
 
 ***

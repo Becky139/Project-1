@@ -4,8 +4,7 @@
 
 [view the live project here](https://becky139.github.io/stories-of-ww2/)
 
-##Table of contents
-
+## Table Of Contents
 1. [Introduction](#Introduction)
 2. [UX](#UX)
     1. [Ideal User Demographic](#Ideal-User-Demographic)
@@ -29,6 +28,9 @@
     2. [Media](#Media)
     3. [Code](#Code)
 9. [Acknowledgements](#Acknowledgements)
+
+
+***
 
 ## Introduction
 
@@ -109,8 +111,8 @@ Wireframes were made to showcase the appearance of the site pages while keeping 
 ![Site Wireframes](assets/readme-files/wireframe-op-Mincemeat.png)
 ![Site Wireframes](assets/readme-files/wireframe-enigma.png)
 ![Site Wireframes](assets/readme-files/wireframe-contact-us.png)
-
 </details>   
+
 
 [Back to top](#Stories-of-WW2)
 
@@ -126,6 +128,7 @@ Each page within the site has a consistent and responsive navigation system. The
 - The **Navigation Bar** is positioned directly below the header. The navigation bar is only used for screen sizes larger than 1200px. It is then replaced by a hamburger menu.
 - The **Navigation Bar** collapses into a **Hamburger Menu** that, when clicked or tapped, opens a sidebar which shows the navigation options.
 - The **Footer** is 100% in width and 40px in height. It stays at the bottom of the screen at all times, on all screen sizes. Each social media link opens in a new tab.
+- The **Contact Form** is to provide a way for users to contact the develper with feedback or with ideas for more stories to be added to the site. The form can not be submitted without at boxes being filled out.
 
 list of pages and content layout
 
