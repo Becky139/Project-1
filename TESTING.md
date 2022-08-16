@@ -12,6 +12,7 @@
 2. [Manual Testing](#Manual-Testing)
 3. [Automated Testing](#Automated-Testing) 
      - [Code Validation](#Code-Validation)
+     - [Accessibility](#Accessibility-Validation)
      - [Browser Validation](#Browser-Validation)
 4. [User Testing](#User-Testing)
 
@@ -62,6 +63,7 @@ Manual testing was conducted on the following elements that appear on every page
 - Clicking on the Navigation Bar's links will bring the user to the specified page.
 
      ![Navigation Bar page links](assets/testing-files/nav-testing.gif)
+     +
      ![Hamburger menu page links](assets/testing-files/ham-testing.gif)
 
 - Clicking the Back-to-top button, located at the bottom right of the screen, will bring the user to the top of the page.
@@ -130,6 +132,8 @@ The [W3C Markup Validator](https://validator.w3.org/) service was used to valida
 - CSS Code
 
      ![CSS Code Page HTML Validation Results](assets/testing-files/validate/validate-css-code.png)
+
+### Accessibility Validation
 
 ### Browser Validation
 - Chrome - [test image](assets/testing-file/validate/validate-chrome.PNG)
