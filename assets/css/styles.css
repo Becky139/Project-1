@@ -1090,7 +1090,8 @@ input[type=email] {
 		}
 
 		.programs-m {
-			padding: 40px 50px 40px 50px
+			text-align: center;
+			float: none;
 		}
 
 		/*Enigma Code Page*/
