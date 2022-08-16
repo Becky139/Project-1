@@ -1092,6 +1092,11 @@ input[type=email] {
 		.programs-m {
 			text-align: center;
 			float: none;
+			padding: none
+		}
+
+		.programs-m li {
+			text-align: center;
 		}
 
 		/*Enigma Code Page*/
