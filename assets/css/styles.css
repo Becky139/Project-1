@@ -608,13 +608,10 @@ input[type=email] {
 	color: #1e3132;
 }
 
-h3 {
-	padding: 10px;
-}
-
 .contact-img {
 	width: 80%;
 	margin: auto;
+	padding: 20px;
 }
 
 .foot {
@@ -1199,15 +1196,6 @@ h3 {
 		}
 
 		/* Contact Dump */
-
-		.text-dump {
-			padding: 10px 30px 10px 30px
-		}
-
-		.contact-img {
-			width: 80%;
-			margin: auto;
-		}
 
 		textarea {
 			width: 300px;
