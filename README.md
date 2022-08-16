@@ -132,7 +132,7 @@ Each page within the site has a consistent and responsive navigation system. The
 
 list of pages and content layout
 
-###Existing Features
+### Existing Features
 - **Header** - Appearing on almost every page for brand recognition.
 - **Navigation Bar** - Appearing on almost every page for a consistently easy and intuitive navigable system on larger screens.
 - **Hamburger Menu** - Appearing on almost every page for a consistently easy and intuitive navigable system on smaller screens.
@@ -143,7 +143,7 @@ list of pages and content layout
 - **[Enigma Code](enigma-code.html)** - This looks into the story of how we broke the German enigma code this allowed us to avoid German attacks and take down the U-Boat that was destroying the allies in the Alantic.
 - **[Contact Us Page](contact-us.html)** - Provides a form for users to contact us and either leave feedback or point at more stories we can add to the page in the future.  
 
-###Features to Implement in the future
+### Features to Implement in the future
 - **Helpful Links Page**
      - **Feature** - Create more pages with other stories that had big impacts on the war or stories that show the real heros of this horific conflict.
      - **Reason for not featuring in this release** - Not enough time to find these out before the submission date also I may not be aware of some of these events.
